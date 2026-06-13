@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ﻿# Avaliação da Eficiência de VPNs na Redução da Exposição de Dados em Redes Wi-Fi Públicas
 
 ## Descrição
@@ -45,7 +44,3 @@ Experimento comparando a exposição de tráfego DNS em dois cenários: com e se
 ## Hipóteses
 - H0: VPN não reduz significativamente o número de queries DNS visíveis
 - H1: VPN reduz significativamente o número de queries DNS visíveis
-=======
-# VPN_Eficiencia
-Repositório destinado aos testes realizados no estudo de Henrique Antunes, Luís Antônio Godoy e Marília Liz Lima, com o intuito de avaliar a eficiência de VPNs na redução da exposição de dados em redes Wi-Fi públicas
->>>>>>> 99da279a4ac1fe43827736dd4b9402c51027a21e
